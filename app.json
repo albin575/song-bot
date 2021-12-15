@@ -1,7 +1,7 @@
 {
     "name": "Song-Bot",
     "description": "A Modular telegram song bot.",
-    "repository": "https://github.com/shamilhabeebnelli/Song-Bot",
+    "repository": "https://heroku.com/albin575/song-bot",
     "keywords": [
        
         "telegram bot",
@@ -19,7 +19,7 @@
         },
         "OWNER": {
             "description": "Your username without @.",
-            "value": "shamilhabeeb"
+            "value": "AB_Mediaw"
         },
         "START_MSG": {
             "description": "Start Message of BoT",
